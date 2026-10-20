@@ -48,12 +48,6 @@ python app/server.py 8081
 ```
 
 
-## Source context
-- https://www.arcesium.com/opterra
-- https://www.arcesium.com/aquata-data-platform
-
-**Attribution:** Independent portfolio learning project; not affiliated with or endorsed by Arcesium.
-
 ## NEW: Live AI investigation assistant
 
 Open an exception and click **Generate evidence-backed AI investigation**. This now makes a genuine OpenAI Responses API call when `OPENAI_API_KEY` is configured. Results include validated `INT.*`, `BRK.*`, and `RECON.*` evidence-field citations; the previous rule-based guidance remains available. The feature is **not active until you provide your own API key**; no paid requests were run when this package was created. Read `docs/09_LIVE_AI_SETUP_AND_GUARDRAILS.md` for Windows/macOS/Linux instructions, safety and evaluation details.
