@@ -1,4 +1,4 @@
-# ReconIQ ◈ — Complete Product Management Portfolio Prototype
+# ReconIQ
 
 A polished, **runnable** financial reconciliation and exception triage app with an auditable demo workflow and full PM documentation. Made for an institutional-fintech product-management internship portfolio.
 
