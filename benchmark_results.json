@@ -1,0 +1,36 @@
+{
+  "hardware_note": "Local container environment; wall-clock timing includes Python processing only; not browser/network; not enterprise production benchmark",
+  "dataset": "Reproducible synthetic generator, seed=42",
+  "runs": [
+    {
+      "internal_rows": 420,
+      "external_rows": 424,
+      "median_reconciliation_ms": 0.52,
+      "min_ms": 0.432,
+      "max_ms": 0.639,
+      "matched": 306,
+      "exceptions": 118,
+      "trials": 9
+    },
+    {
+      "internal_rows": 1000,
+      "external_rows": 1011,
+      "median_reconciliation_ms": 1.349,
+      "min_ms": 1.141,
+      "max_ms": 1.744,
+      "matched": 736,
+      "exceptions": 275,
+      "trials": 9
+    },
+    {
+      "internal_rows": 5000,
+      "external_rows": 5055,
+      "median_reconciliation_ms": 7.884,
+      "min_ms": 6.716,
+      "max_ms": 72.977,
+      "matched": 3692,
+      "exceptions": 1363,
+      "trials": 9
+    }
+  ]
+}
