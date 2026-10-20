@@ -47,8 +47,6 @@ python tests/benchmark.py
 python app/server.py 8081
 ```
 
-## Suggested video
-Follow `docs/07_VIDEO_SCRIPT_AND_SHOT_LIST.md`. The user only needs to capture and narrate the demo.
 
 ## Source context
 - https://www.arcesium.com/opterra
